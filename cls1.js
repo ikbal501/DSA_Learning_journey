@@ -26,7 +26,7 @@ console.log(temp);
 
 //big int
 
-let num3 = 178468885297896523587458n;
+let num3 = 17846888529789652358745n;
 console.log(num3);
 
 // Null
